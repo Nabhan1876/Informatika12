@@ -1,3 +1,8 @@
 #Contoh Variabel
 Nama= "Nabhan"
-print (Nama)
+
+#Cara Melihat isi Variabel
+Print (Nama)
+
+#Cara Menghapus Variabel
+del (Nama)
